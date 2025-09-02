@@ -1,0 +1,13 @@
+skill-pilot-full/
+│── index.html
+│── /assets/
+│     ├── hero-video.mp4
+│     ├── banking.jpg
+│     ├── it.jpg
+│     ├── logistics.jpg
+│     ├── healthcare.jpg
+│     ├── success1.jpg
+│     ├── success2.jpg
+│     ├── placements.png
+│── /css/
+│     └── style.css
