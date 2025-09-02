@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Skill Pilot - From Skills to Success</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <nav class="container-fluid">
+    <ul><li><strong>Skill Pilot</strong></li></ul>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">Programs</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Placements</a></li>
+      <li><a href="#" role="button">Enroll Now</a></li>
+    </ul>
+  </nav>
+
+  <main class="container">
+    <div class="hero">
+      <video autoplay muted loop playsinline>
+        <source src="assets/hero-video.mp4" type="video/mp4">
+      </video>
+      <div class="overlay">
+        <h1>Skill Pilot</h1>
+        <p>From Skills to Success – Your Career, Our Mission</p>
+        <a href="#" role="button">Enroll Now</a>
+      </div>
+    </div>
+
+    <div class="grid">
+      <section>
+        <hgroup><h2>Featured Sectors</h2><h3>Train for in-demand careers</h3></hgroup>
+        <div class="grid cards">
+          <article><img src="assets/banking.jpg"><h3>Banking</h3></article>
+          <article><img src="assets/it.jpg"><h3>IT</h3></article>
+          <article><img src="assets/logistics.jpg"><h3>Logistics</h3></article>
+          <article><img src="assets/healthcare.jpg"><h3>Healthcare</h3></article>
+        </div>
+      </section>
+
+      <section>
+        <hgroup><h2>Success Stories</h2><h3>From trainees to professionals</h3></hgroup>
+        <div class="grid cards">
+          <article><img src="assets/success1.jpg"><p>Placed at ICICI Bank</p></article>
+          <article><img src="assets/success2.jpg"><p>Joined Max Healthcare</p></article>
+        </div>
+      </section>
+
+      <section>
+        <hgroup><h2>Our Placement Partners</h2><h3>Trusted by industry leaders</h3></hgroup>
+        <figure>
+          <img src="assets/placements.png" alt="Placement Logos">
+        </figure>
+      </section>
+    </div>
+  </main>
+
+  <footer class="container">
+    <small>© 2025 Skill Pilot</small>
+  </footer>
+</body>
+</html>
